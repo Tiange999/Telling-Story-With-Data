@@ -10,4 +10,4 @@ I hope to become a creative data visualization designer after taking this course
 # Portfolio
 My ladder to a data artist starts!
 
-[Work on General Government Debt](/dataviz2.md)
+[OECD Data visualization workshop](/dataviz2.md)
