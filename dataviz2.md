@@ -1,7 +1,10 @@
 #Here is the Assignment: OECD data visualization
+
 #part 1 Bar chart with OECD data
+
 #This dataset is for General government debt-to-GDP ratio, which measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits.
-#<iframe src="https://data.oecd.org/chart/5JwF" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5JwF" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, last 5 years</a></iframe>
+
+<iframe src="https://data.oecd.org/chart/5JwF" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5JwF" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, last 5 years</a></iframe>
 
 #part 2  Plots with RAWGraphs
 #Here is a Beeswarm plot to show that for each country, how Debt-to-GDP ratio changes in the period of 1996-2018. The size of the dots represents the value of Debt-to-GDP ratio for the corresponding country in the given year. The countries are calssified in different colors. This graph clearly shows the yearly variation for each country. However, it is not that helpful to make contrast among them.
