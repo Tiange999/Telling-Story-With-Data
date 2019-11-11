@@ -15,6 +15,7 @@ I will:
 
 ## My solution:
 >Based on the feedback on ABtest, I decided to use data map to redesign the visualization. I used R to make it. Here is the code(data in excel format is uploaded under this folder as well):
+[the data used](/Book2.xlsx)
 
 ```{r setup, include=FALSE}
 require(rgdal)
