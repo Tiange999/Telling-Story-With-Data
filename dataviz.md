@@ -13,7 +13,7 @@ I will:
 [Please click here](wireframe.png) 
 
 ## My solution:
->Based on the feedback on ABtest, I decided to use data map to redesign the visualization. I used R to make it. Here is the code:
+>Based on the feedback on ABtest, I decided to use data map to redesign the visualization. I used R to make it. Here is the code(data in excel format is uploaded under this folder as well):
 
 ```{r setup, include=FALSE}
 require(rgdal)
@@ -53,3 +53,5 @@ leaflet() %>%
    options = layersControlOptions(collapsed = FALSE)
   )
 ```
+You can also check the link here to see the outcome.
+[Please click here](map for cvs.png)
