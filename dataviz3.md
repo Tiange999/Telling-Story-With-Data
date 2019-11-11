@@ -10,6 +10,7 @@ I will:
 
 ## wireframe experience:
 >please see this part by the link below:
+
 [Please click here](wireframe.png) 
 
 ## My solution:
@@ -54,5 +55,5 @@ leaflet() %>%
   )
 ```
 You can also check the link here to see the outcome.
-[Please click here]
-(map for cvs.png)
+
+[Please click here](map for cvs.png)
