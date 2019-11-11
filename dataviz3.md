@@ -54,4 +54,4 @@ leaflet() %>%
   )
 ```
 You can also check the link here to see the outcome.
-[Please click here](map for cvs.png)
+[Please click here](/map for cvs.png)
