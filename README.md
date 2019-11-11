@@ -11,4 +11,5 @@ I hope to become a creative data visualization designer after taking this course
 My ladder to a data artist starts!
 
 [OECD Data visualization workshop](/dataviz2.md)
+
 [Critique by Design workshop](/dataviz3.md)
