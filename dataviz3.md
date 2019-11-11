@@ -11,7 +11,7 @@ I will:
 ## wireframe experience:
 >please see this part by the link below:
 
-[Please click here](wireframe.png) 
+[Please click here](/wireframe.png) 
 
 ## My solution:
 >Based on the feedback on ABtest, I decided to use data map to redesign the visualization. I used R to make it. Here is the code(data in excel format is uploaded under this folder as well):
@@ -56,4 +56,4 @@ leaflet() %>%
 ```
 You can also check the link here to see the outcome.
 
-[Please click here](mfs.jpg)
+[Please click here](/mfs.jpg)
