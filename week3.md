@@ -10,7 +10,7 @@ I will:
 
 ## wireframe experience:
 >please see this part by the link below:
-[Please click here](wireframe.jpg) <!-- .element height="50%" width="50%" -->)
+[Please click here](wireframe.png) 
 
 ## My solution:
 >Based on the feedback on ABtest, I decided to use data map to redesign the visualization. I used R to make it. Here is the code:
