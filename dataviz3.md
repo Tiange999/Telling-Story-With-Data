@@ -56,4 +56,4 @@ leaflet() %>%
 ```
 You can also check the link here to see the outcome.
 
-[Please click here](/mfs.jpg)
+[Please click here](/mfc.png)
