@@ -40,13 +40,14 @@ Stay close to friends and do not interact with strangers.
 * [criminal profile](/criminal.png)
 
 ## Data
+This is the data used:
 [DATA table](/CMUAlert.xlsx)
 
 The data is extacted by myself from safety alter emails (from campuspd@andrew.cmu.edu) and CMU 2019 annual safety report.
 I looked up the longitude and latitude of the incidents from google earth. So that i can use R to make a data map.
 I also recorded victim information, time ,criminal information. I can use tableau to make charts to show their features.
 
-##Method
+## Method
 
 I plan to use shorthand for the story structure. That will be like https://preview.shorthand.com/DkybT0IpGUDm7wPz.
 For data analytics, I will make map by R and tableau.
