@@ -40,7 +40,7 @@ Stay close to friends and do not interact with strangers.
 * [criminal profile](/criminal.png)
 
 ## Data
-[DATA table](/CMU Alert.xlsx)
+[DATA table](/CMUAlert.xlsx)
 
 The data is extacted by myself from safety alter emails (from campuspd@andrew.cmu.edu) and CMU 2019 annual safety report.
 I looked up the longitude and latitude of the incidents from google earth. So that i can use R to make a data map.
