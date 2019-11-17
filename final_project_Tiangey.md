@@ -34,7 +34,7 @@ Do not approach suspicious persons or vehicles.
 Stay close to friends and do not interact with strangers.
 
 ## Sketches
-* [Geographical map for distribution](/IMG_0022 2.jpg)
+* [Geographical map for distribution](/IMG_00222.JPG)
 * [time period distribution](/time.png)
 * [victim profile](/vic.png)
 * [criminal profile](/criminal.png)
