@@ -52,6 +52,8 @@ I also recorded victim information, time ,criminal information. I can use tablea
 I plan to use shorthand for the story structure. That will be like https://preview.shorthand.com/DkybT0IpGUDm7wPz.
 For data analytics, I will make map by R and tableau.
 
-
+# part II
+I integrated three sub-questions in a pdf for this part. Please check:
+[Part 2](/未命名文件.pdf)
 
 
