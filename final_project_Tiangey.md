@@ -56,5 +56,3 @@ For data analytics, I will make map by R and tableau.
 >I integrated three sub-questions in a pdf for this part. Please check:
 
 [Part II](/未命名作品.pdf)
-
-
