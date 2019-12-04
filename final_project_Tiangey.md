@@ -91,6 +91,14 @@ Surprisingly ,two of them mentioned pokeball as the second necessity for freshme
 * data visulization:
 I used tableau for visualization. The most interesting skill i learnt from it is customizing the icons in scatterplots or maps.
 
+* reference of media:
+https://www.youtube.com/watch?v=8PGsP59Io20
+https://www.slashgear.com/pokemon-sword-and-shield-release-date-revealed-dynamax-pokemon-detailed-05579303/
+https://essentialsdocs.fandom.com/wiki/Battles
+https://www.nintendoreporters.com/en/rumors/pokemon-2019-to-feature-a-redesigned-capture-system/
+https://www.youtube.com/watch?v=MpaHR-V_R-o
+https://free4kwallpapers.com/pokemon-wallpapers
+
 * Final Story:
 Shorthand link: https://carnegiemellon.shorthandstories.com/tiangey/index.html
 
