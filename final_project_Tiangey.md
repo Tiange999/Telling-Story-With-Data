@@ -1,3 +1,9 @@
+# Project Summary:
+
+This is a project for practicing theories and methodologies leanrt from Telling Story with Data class. This file recorded the journey of how I make proposal, do initial sketching, draw outline, do audience test and finish the visualization.
+> NOTE:After part I and II, I changed my topic because of the limit of my data source and topic scope. It is also a notable lesson learnt form the practice. 
+
+
 # Part I
 ## Outline
 * Summary
@@ -52,7 +58,40 @@ I also recorded victim information, time ,criminal information. I can use tablea
 I plan to use shorthand for the story structure. That will be like https://preview.shorthand.com/DkybT0IpGUDm7wPz.
 For data analytics, I will make map by R and tableau.
 
-# part II
+# Part II
 
 ![Part II](part2.jpg)
+
+# Part III
+
+## Oops, Topic Change
+
+
+After Part II, I found two fatal flaws of my topic. 1. The scope was too narrow to form a interesting story. 2. The data table I made by my own was too thin to support an inspiring exploration. And the grographic information i collected was not detailed enough to draw the location map. Then i decided to change my topic.
+> Lesson learnt: 1. The scope of your topic matters when you want to get insights from data. 2. Base your story on solid, accurate and detailed data. Data source is really important. 
+
+## New topic and some repeating work
+* Summary:
+Since I am a super fan of Pokemon video games and animes, I want to tell a story of this virtual world but based on real world data. I want to tell a story of how to be a good player in pokemon games. Pokemon is an global virtual IP origined from 1995. This scope is really a big one. I used tableau to do the data visualization, used shorthand to organize the story.
+* Data:
+I found the data from https://data.world/ljvmiranda921/pokemon-go-dataset/workspace/file?filename=pkmn-go.csv
+https://data.world/data-society/pokemon-with-stats
+https://data.world/data-society/pokemon-with-stats/workspace/file?filename=Pokemon.csv. They are originally from player community and Pokemon GO offical website. This time, the data is pretty solid, covering attributes, player modes, demograohic facts about thousands of pokemons. 
+* Audience Finding:
+My audience will be people interested in pokemon games or freshman just start playing it.
+I interview 3 friends about my idea and what data they want to know under this topic. The top three they mentioned are: Basic rule, Fighting system, Basic attributes freshman need to now.
+Then I interviewed three active players on a big player bbs: https://bbs.nga.cn/thread.php?fid=529&rand=82 (it's a chinese bbs) by " private conversation ". I requested them to give me some advice on organizing the story from a player perspective.
+Surprisingly ,two of them mentioned pokeball as the second necessity for freshmen. 
+* data visulization:
+I used tableau for visualization. The most interesting skill i learnt from it is customizing the icons in scatterplots or maps.
+
+* Final Story:
+Shorthand link: https://carnegiemellon.shorthandstories.com/tiangey/index.html
+
+# Part IV: 
+
+I also did a presentation with the same link https://carnegiemellon.shorthandstories.com/tiangey/index.html. 
+
+Thanks for your time.
+
 
