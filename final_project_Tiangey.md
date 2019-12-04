@@ -74,9 +74,15 @@ After Part II, I found two fatal flaws of my topic. 1. The scope was too narrow 
 * Summary:
 Since I am a super fan of Pokemon video games and animes, I want to tell a story of this virtual world but based on real world data. I want to tell a story of how to be a good player in pokemon games. Pokemon is an global virtual IP origined from 1995. This scope is really a big one. I used tableau to do the data visualization, used shorthand to organize the story.
 * Data:
-I found the data from https://data.world/ljvmiranda921/pokemon-go-dataset/workspace/file?filename=pkmn-go.csv
+I found the data from 
+
+https://data.world/ljvmiranda921/pokemon-go-dataset/workspace/file?filename=pkmn-go.csv
+
 https://data.world/data-society/pokemon-with-stats
-https://data.world/data-society/pokemon-with-stats/workspace/file?filename=Pokemon.csv. They are originally from player community and Pokemon GO offical website. This time, the data is pretty solid, covering attributes, player modes, demograohic facts about thousands of pokemons. 
+
+https://data.world/data-society/pokemon-with-stats/workspace/file?filename=Pokemon.csv. 
+
+They are originally from player community and Pokemon GO offical website. This time, the data is pretty solid, covering attributes, player modes, demograohic facts about thousands of pokemons. 
 * Audience Finding:
 My audience will be people interested in pokemon games or freshman just start playing it.
 I interview 3 friends about my idea and what data they want to know under this topic. The top three they mentioned are: Basic rule, Fighting system, Basic attributes freshman need to now.
@@ -84,6 +90,18 @@ Then I interviewed three active players on a big player bbs: https://bbs.nga.cn/
 Surprisingly ,two of them mentioned pokeball as the second necessity for freshmen. 
 * data visulization:
 I used tableau for visualization. The most interesting skill i learnt from it is customizing the icons in scatterplots or maps.
+* Reference
+https://www.youtube.com/watch?v=8PGsP59Io20
+
+https://www.slashgear.com/pokemon-sword-and-shield-release-date-revealed-dynamax-pokemon-detailed-05579303/
+
+https://essentialsdocs.fandom.com/wiki/Battles
+
+https://www.nintendoreporters.com/en/rumors/pokemon-2019-to-feature-a-redesigned-capture-system/
+
+https://www.youtube.com/watch?v=MpaHR-V_R-o
+
+https://free4kwallpapers.com/pokemon-wallpapers
 
 * Final Story:
 Shorthand link: https://carnegiemellon.shorthandstories.com/tiangey/index.html
