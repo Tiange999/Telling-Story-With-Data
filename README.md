@@ -13,3 +13,5 @@ My ladder to a data artist starts!
 [OECD Data visualization workshop](/dataviz2.md)
 
 [Critique by Design workshop](/dataviz3.md)
+
+[My final project](/final_project_Tiangey.md)
